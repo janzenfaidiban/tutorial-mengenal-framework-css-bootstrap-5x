@@ -9,6 +9,8 @@ Melalui tutorial ini diperkenalkan apa itu bootstrap dan bagaimana menerapkan bo
 
 ## Penerapan Bootstrap menggunakan link CDN
 
+<img src="https://raw.githubusercontent.com/janzenfaidiban/tutorial-mengenal-framework-css-bootstrap-5x/main/_screenshot/bootstrap-cdn.png" width="200px">
+
 Membuthkan koneksi internet agar kita bisa gunakan bootstrap link CDN
 
 ```html
