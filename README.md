@@ -4,7 +4,10 @@ Bootstrap merupakan Framework CSS yang tersedia secara gratis bagi para pengemba
 
 Melalui tutorial ini diperkenalkan apa itu bootstrap dan bagaimana menerapkan bootstrap dalam proyek pengembangan website melalui berbagai referensi belajar yang telah tersedia.
 
-<a href="https://youtu.be/tIBDSOzLmdo">Tampilkan Video</a>
+<a href="https://youtu.be/tIBDSOzLmdo">Tampilkan Video</a> 
+<br>
+<br>
+<a href="https://janzenfaidiban.github.io/tutorial-mengenal-framework-css-bootstrap-5x/">Tampilkan Demo</a>
 
 
 ## Penerapan Bootstrap menggunakan link CDN
