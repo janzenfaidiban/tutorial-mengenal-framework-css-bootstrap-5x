@@ -40,6 +40,9 @@ Membuthkan koneksi internet agar kita bisa gunakan bootstrap link CDN
 
 ## Penerapan Bootstrap menggunakan file Download
 
+<img src="https://raw.githubusercontent.com/janzenfaidiban/tutorial-mengenal-framework-css-bootstrap-5x/main/_screenshot/bootstrap-download.png" width="800px">
+
+
 File atau folder bootstrap perlu di download terlebih dahulu ke dalam folder project kemudian bisa digunakan.
 
 ```html
